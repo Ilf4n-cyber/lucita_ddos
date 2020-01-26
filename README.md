@@ -1,3 +1,3 @@
-This script recode from Hammer v1 to Indonesia language
-1. How to use Lucita_DDOS [`Watch it`](https://youtu.be/CxG6QLjy9Og) 
-2. Fork it...
+# This script recode from Hammer v1 to Indonesia language
+# 1. How to use Lucita_DDOS [`Watch it`](https://youtu.be/CxG6QLjy9Og) 
+# 2. Fork it...
